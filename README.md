@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Sou+a+Camylla!+%E2%9C%A7)](https://git.io/typing-svg)
 
- Olá! Eu me chamo Camylla Vitória, tenho 18 anos
+ Olá! Eu me chamo Camylla Vitória, tenho 18 anos Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, velit vel lacinia tincidunt, justo libero facilisis nunc, nec bibendum libero justo a nunc. Sed euismod, tortor eget luctus tincidunt, odio libero tincidunt quam, et gravida nisl libero a libero. Vivamus nec justo nec libero venenatis facilisis. Sed euismod, libero eget bibendu fgrgrg huji jijjhi ujijik hu j jhu jijijuh uhuji huhujju hbyhnnu ikijfj ijifji ijfuuj okodkok jurhbe jurfhuj uhrujir
 
 ##
  
