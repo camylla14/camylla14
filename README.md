@@ -33,7 +33,12 @@ Formas de contato:
 
 </section>
 
+##
 
+<div align="center">
+<img width="75%" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickps2015/rickps2015/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+<img width="20%">
+</div>
 
 
 
