@@ -19,7 +19,7 @@ Formas de contato:
 
 <br>
  
- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="80" height="80" img align='left'/> <h3>Linguagens e ferramentas:</h3> 
+ ### 
  
  <div style="display: inline_block"><br>
   <img src="https://skillicons.dev/icons?i=javascript"
