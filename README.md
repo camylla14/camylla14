@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=990&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+Sou+a+Camylla!+%E2%9C%A7)](https://git.io/typing-svg)
 
-<p>Olá! Eu me chamo Camylla Vitória, tenho 18 anos</p>
+<p>Olá! Eu me chamo Camylla Vitória, tenho 18 anos “Lorem ipsum” is a placeholder text commonly used in the design and typesetting industry. It’s derived from a work by Cicero, a Roman philosopher, and is often used to demonstrate the visual layout of a document without focusing on the actual content. The phrase doesn’t have any specific meaning; it’s just a jumble of Latin words.
+
+If you need any further assistance or have other questions, feel free to ask! </p>
 
 ##
 
