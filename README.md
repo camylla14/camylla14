@@ -12,8 +12,7 @@
 
  <section>
 Formas de contato:
- 
- <a href="https://discord.gg/camylla_midari" target="_blank"><img align="center" alt="discod" height="30" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
   <a href = "email:camyllavitoriadev14@gmail.com"><img align="center" alt="gmail" height="30" width="110" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camylla-vitoria/" target="_blank"><img align="center" alt="linkedin" height="30" width="110" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
