@@ -13,7 +13,7 @@
  <section>
 Formas de contato:
 
-  <a href = "email:camyllavitoriadev14@gmail.com"><img align="center" alt="gmail" height="30" width="110" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:camyllavitoriadev14"><img align="center" alt="linkedin" height="30" width="110" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camylla-vitoria/" target="_blank"><img align="center" alt="linkedin" height="30" width="110" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -34,12 +34,9 @@ Formas de contato:
 
 ##
 
-<img alt="sonic-dance" width="150" height="150" img align='left' src="https://th.bing.com/th/id/R.46ad0a34691cfe0dec8b590fd208e5cf?rik=BS9ao7vKCik8zw&riu=http%3a%2f%2fthelegacyofsonic.weebly.com%2fuploads%2f1%2f1%2f5%2f4%2f115458941%2fsonic-finish-freestyle_orig.gif&ehk=%2bt5j90BUYzM2acT%2biq6pR8Seyk%2bzG2Cs9KKM58gg6Sg%3d&risl=&pid=ImgRaw&r=0" >
+<img alt="sonic-dance" width="150" height="150" img align='center' src="https://th.bing.com/th/id/R.46ad0a34691cfe0dec8b590fd208e5cf?rik=BS9ao7vKCik8zw&riu=http%3a%2f%2fthelegacyofsonic.weebly.com%2fuploads%2f1%2f1%2f5%2f4%2f115458941%2fsonic-finish-freestyle_orig.gif&ehk=%2bt5j90BUYzM2acT%2biq6pR8Seyk%2bzG2Cs9KKM58gg6Sg%3d&risl=&pid=ImgRaw&r=0" >
 
-<div align="center">
-<img width="75%" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickps2015/rickps2015/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-<img width="20%">
-</div>
+
 
 
 
