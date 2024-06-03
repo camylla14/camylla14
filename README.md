@@ -4,13 +4,15 @@
 
 ##
 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=camylla14&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align='right' />
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="50" height="50" img align='left' /> 
 <div> 
 
    
-
-
  <section>
+
+
 Formas de contato:
 
   <a href = "mailto:camyllavitoriadev14"><img align="center" alt="linkedin" height="30" width="110" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
