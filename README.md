@@ -12,6 +12,7 @@
    
  <section>
 
+<img height="180em" align="right" src='https://github-readme-stats.vercel.app/api?username=camylla14&show_icons=true&theme=radical&include_all_commits=true&count_private=true'/>
 
 Formas de contato:
 
@@ -23,7 +24,6 @@ Formas de contato:
  
  ### 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camylla14&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" min-width="400px" max-width="400px" width="400px" align="right" alt="GitHub stats">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="80" height="80" img align='left'/>
 
@@ -39,9 +39,7 @@ Formas de contato:
 </div>
 
 </section>
-<div align=right>
-<img alt="sonic-dance" width="150" height="150" img align='center' src="https://th.bing.com/th/id/R.46ad0a34691cfe0dec8b590fd208e5cf?rik=BS9ao7vKCik8zw&riu=http%3a%2f%2fthelegacyofsonic.weebly.com%2fuploads%2f1%2f1%2f5%2f4%2f115458941%2fsonic-finish-freestyle_orig.gif&ehk=%2bt5j90BUYzM2acT%2biq6pR8Seyk%2bzG2Cs9KKM58gg6Sg%3d&risl=&pid=ImgRaw&r=0" >
-</div>
+
 
 ##
 
