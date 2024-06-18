@@ -10,7 +10,7 @@
 <div> 
 
 
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camylla14&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" min-width="400px" max-width="400px" width="400px" align="right" alt="GitHub stats">
+<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=camylla14&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7869e9&text_color=FFF&border_radius=3&border_color=7869e9&icon_color=7869e9&theme=jolly" min-width="380px" max-width="380px" width="380px" align="right" alt="GitHub stats">
 
 
  <section>
